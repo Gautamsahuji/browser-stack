@@ -60,7 +60,7 @@ This ensures **cross‑browser and cross‑device compatibility testing**.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/browserstack-assignment.git
+git clone https://github.com/Gautamsahuji/browser-stack/blob/main/main.py
 
 Install dependencies:
 
